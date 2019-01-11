@@ -8,7 +8,7 @@ Android + iOS Apache Cordova demo for the ACR35 NFC reader
 ```
 {
     "plugin": {
-        "url": "https://github.com/cmfsotelo/acr35.git#pluginOnly
+        "url": "https://github.com/cmfsotelo/acr35.git#pluginOnly"
     }
 }
 ```
